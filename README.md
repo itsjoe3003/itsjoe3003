@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on developing a weapons detection and face recognition model for a security company for improving public surveillance and crime reporting.<br><br>I'm looking to collaborate on various Machine Learning and Deep Learning models that help with innovating public safety and crime detection along with reporting in real time, while also preserving the privacy of public data.<br><br>I'm currently learning various machine learning tools and frameworks with hardware integration.
+
 
 
 ## 🌐 Socials:
